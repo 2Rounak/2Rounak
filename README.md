@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2Rounak
+- 👋 Hi, I’m @Rounak Chatterjee
 - 👀 I’m interested in Data structures,Web development,App Dev and Ehtical Hacking
 - 🌱 I’m currently learning data structures and web deevelopment
 - 📫 How to reach me 
